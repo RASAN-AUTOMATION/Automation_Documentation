@@ -54,7 +54,7 @@ You need to download Chrome driver.
 ---
 ## Git Version Control
 You need to Download and Install Git from below Link:
-- [Git Version Control](https://github.com/aspnet/Home)
+- [Git Version Control](https://git-scm.com/)
 
 ## License
 ---
