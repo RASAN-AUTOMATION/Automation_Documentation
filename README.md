@@ -1,4 +1,4 @@
-![RASAN](../RasanLogo.png)
+![automationrasan](../RasanLogo.png)
 
 # How to setup and install Automation Tools
 
